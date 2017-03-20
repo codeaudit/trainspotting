@@ -1,5 +1,5 @@
 # Trainspotting Blog Post Series
-![Alt text](figures/architecture.png?raw=true "Architecture" | width=100)
+![Alt text](figures/architecture.png?raw=true "Architecture")
 If you have ever ridden the train, you know that the delay estimates Caltrain provides can be a bit…off. Sometimes a train will remain “two minutes delayed” for ten minutes after the train was already supposed to have departed, or delays will be reported when the train is on time. The idea for Trainspotting came from our desire to integrate new data sources for delay prediction beyond scraping Caltrain’s API . Since we had previously set up a Raspberry Pi to analyze train whistles, we thought it would be fun to validate the data coming from the Caltrain API by capturing real-time video and audio of trains passing by our office near the Mountain View station.
 
 We describe this process in a series of posts:
